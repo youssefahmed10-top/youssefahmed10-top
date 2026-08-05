@@ -1,16 +1,66 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Youssef Ahmed</h1>
 
-<!--
-**youssefahmed10-top/youssefahmed10-top** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Backend .NET Developer from Egypt 🇪🇬</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building scalable REST APIs using ASP.NET Core and SQL Server
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Bachelor of Information Systems
+- 💻 Backend .NET Developer
+- 🌱 Currently learning Clean Architecture, Docker, Azure & Redis
+- 📫 Reach me: yousssefahmed9@gmail.com
+
+---
+
+## 🚀 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,docker,postman,mysql" />
+</p>
+
+### Database
+
+- SQL Server
+- MySql
+- Entity Framework Core
+
+### Backend
+
+- ASP.NET Core Web API
+- REST APIs
+- LINQ
+- Dependency Injection
+- Authentication
+- Clean Architecture
+
+---
+
+## 📌 Featured Projects
+
+### 🚨 SilentLink
+Smart Crisis Management & Communication System
+
+### 🛒 E-Commerce API
+RESTful API using ASP.NET Core & SQL Server
+
+---
+
+## 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=youssefAhmed10-top&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=youssefAhmed10-top&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yousseffAhmed10-top&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect with me
+
+- LinkedIn: www.linkedin.com/in/yousssef-ahmed-7bb0a6208
+- Email: yousssefahmed9@gmail.com
