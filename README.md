@@ -20,7 +20,7 @@ Building scalable REST APIs using ASP.NET Core and SQL Server
 ## 🚀 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,docker,postman,mysql" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,postman,mysql" />
 </p>
 
 ### Database
